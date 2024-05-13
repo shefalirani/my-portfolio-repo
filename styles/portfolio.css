@@ -104,3 +104,21 @@ main {
 .about-info {
   text-align: center;
 }
+/* skills related styles*/
+
+#what_i_do_description {
+  padding: 30px 150px;
+}
+.skills_container {
+  display: flex;
+  gap: 24px;
+}
+.skill {
+  padding: 30px;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.skill_discription {
+}
