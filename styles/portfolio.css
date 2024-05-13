@@ -90,6 +90,9 @@ main {
   max-width: 1140px;
   margin: 0 auto;
 }
+main section {
+  margin-top: 130px;
+}
 /* about dection styles */
 .about {
   padding: 130px;
@@ -121,4 +124,15 @@ main {
 }
 
 .skill_discription {
+  color: #757575;
+}
+/* resume section styles */
+.resume_column_title {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+}
+.Download_Cv {
+  text-align: center;
+  margin-top: 30px;
 }
