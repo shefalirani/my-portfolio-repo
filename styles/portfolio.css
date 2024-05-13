@@ -85,10 +85,22 @@ nav a {
 .baner_bio {
   margin-top: 20px;
 }
-
+/* mine section styles */
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+/* about dection styles */
 .about {
   padding: 130px;
   border-radius: 10px;
   background: #fff8f3;
   margin: 130px 0;
+}
+.about_info_container {
+  display: flex;
+  justify-content: space-around;
+}
+.about-info {
+  text-align: center;
 }
